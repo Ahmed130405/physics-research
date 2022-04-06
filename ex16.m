@@ -21,3 +21,4 @@ c = colorbar;
 c.Label.String = 'e3/e2';
 xlabel('d');
 ylabel('w');
+prctile(b,1) % 1.7427
