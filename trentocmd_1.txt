@@ -1,0 +1,10 @@
+cd documents/trento/data_3 && trento Pb Pb 300000 -x 7.0 -n 18.38 -k 1.19 -p 0.007 -d 0.8 -w 0.4 --b-max 1.5678 > Pb_Pb_d0.8_w0.4_5TeV_bmax1.5678.txt
+cd documents/trento/data_3 && trento Pb Pb 300000 -x 7.0 -n 18.38 -k 1.19 -p 0.007 -d 0.8 -w 0.4 --b-min 1.5678 --b-max 2.2215 > Pb_Pb_d0.8_w0.4_5TeV_bmin1.5678_bmax2.2215.txt
+cd documents/trento/data_3 && trento Pb Pb 300000 -x 7.0 -n 18.38 -k 1.19 -p 0.007 -d 0.8 -w 0.4 --b-min 2.2215 --b-max 2.724 > Pb_Pb_d0.8_w0.4_5TeV_bmin2.2215_bmax2.724.txt
+cd documents/trento/data_3 && trento Pb Pb 300000 -x 7.0 -n 18.38 -k 1.19 -p 0.007 -d 0.8 -w 0.4 --b-min 2.724 --b-max 3.1471 > Pb_Pb_d0.8_w0.4_5TeV_bmin2.724_bmax3.1471.txt
+cd documents/trento/data_3 && trento Pb Pb 300000 -x 7.0 -n 18.38 -k 1.19 -p 0.007 -d 0.8 -w 0.4 --b-min 3.1471 --b-max 3.5179 > Pb_Pb_d0.8_w0.4_5TeV_bmin3.1471_bmax3.5179.txt
+cd documents/trento/data_3 && trento Pb Pb 300000 -x 7.0 -n 18.38 -k 1.19 -p 0.007 -d 0.8 -w 0.4 --b-min 3.5179 --b-max 3.8522 > Pb_Pb_d0.8_w0.4_5TeV_bmin3.5179_bmax3.8522.txt
+cd documents/trento/data_3 && trento Pb Pb 300000 -x 7.0 -n 18.38 -k 1.19 -p 0.007 -d 0.8 -w 0.4 --b-min 3.8522 --b-max 4.1623 > Pb_Pb_d0.8_w0.4_5TeV_bmin3.8522_bmax4.1623.txt
+cd documents/trento/data_3 && trento Pb Pb 300000 -x 7.0 -n 18.38 -k 1.19 -p 0.007 -d 0.8 -w 0.4 --b-min 4.1623 --b-max 4.4522 > Pb_Pb_d0.8_w0.4_5TeV_bmin4.1623_bmax4.4522.txt
+cd documents/trento/data_3 && trento Pb Pb 300000 -x 7.0 -n 18.38 -k 1.19 -p 0.007 -d 0.8 -w 0.4 --b-min 4.4522 --b-max 4.7233 > Pb_Pb_d0.8_w0.4_5TeV_bmin4.4522_bmax4.7233.txt
+cd documents/trento/data_3 && trento Pb Pb 300000 -x 7.0 -n 18.38 -k 1.19 -p 0.007 -d 0.8 -w 0.4 --b-min 4.7233 --b-max 4.9777 > Pb_Pb_d0.8_w0.4_5TeV_bmin4.7233_bmax4.9777.txt
