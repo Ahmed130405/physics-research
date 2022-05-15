@@ -2,6 +2,7 @@ filenameString = ['Pb_Pb_d0.8_w0.4_5TeV.txt'];
 data = readtable(filenameString);
 nch = table2array(data(:,4:4));
 centrality = 0.5:1:9.5;
+centrality = transpose(centrality);
 for i = 1:10
     nchprc(i) = prctile(nch,100-i);
 end
